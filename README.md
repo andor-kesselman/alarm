@@ -1,4 +1,4 @@
-A simple alarm script for mac. To run, install a crontab at the appropriate time of calling. You have 20 seconds to press 1, otherwise the alarm will repeat until finished. 
+A simple alarm script for mac. I was without my phone one day, but had my computer (and no internet). To run, install a crontab at the appropriate time of calling. You have 20 seconds to press 1, otherwise the alarm will repeat until finished. 
 
 Change the .ogg file in the script to change the sound. 
 
